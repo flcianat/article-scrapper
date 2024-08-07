@@ -1,37 +1,41 @@
-Title: Bangladesh’s ‘Gen Z revolution’
-Link: https://edition.cnn.com/2024/08/06/asia/bangladesh-protests-hasina-resignation-explainer-intl-hnk/index.html
+Title: UK riots
+Link: https://edition.cnn.com/2024/08/06/uk/rotherham-uk-far-right-riot-protest-intl/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: Groundbreaking moon discovery
-Link: https://edition.cnn.com/2024/08/05/science/china-moon-samples-water-intl-hnk/index.html
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
-Title: Oldest pyramid
-Link: https://edition.cnn.com/2024/08/05/science/egypt-pyramid-hydraulic-lift-technology-theory/index.html
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
-Title: Google lawsuit
-Link: https://edition.cnn.com/2024/08/05/business/google-loses-antitrust-lawsuit-doj/index.html
+Title: Bangladesh’s interim government
+Link: https://edition.cnn.com/2024/08/07/asia/muhammad-yunus-bangladesh-government-intl-hnk/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
 Title: Gymnasts’ podium photo
 Link: https://edition.cnn.com/2024/08/06/sport/us-gymnasts-sportsmanship-wins-hearts-podium-int-hnk/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: UK’s far-right riots
-Link: https://edition.cnn.com/2024/08/05/uk/uk-far-right-protests-explainer-gbr-intl/index.html
+Title: Oldest pyramid
+Link: https://edition.cnn.com/2024/08/05/science/egypt-pyramid-hydraulic-lift-technology-theory/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
+Title: Groundbreaking moon discovery
+Link: https://edition.cnn.com/2024/08/05/science/china-moon-samples-water-intl-hnk/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
+Title: World’s tallest building
+Link: https://edition.cnn.com/style/skyscraper-batteries-som-energy-vault-spc/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
 Title: ‘Special forces travelers’
 Link: https://edition.cnn.com/travel/special-forces-travelers-china-intl-hnk/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: The Minnesota governor shares an anecdote about his family’s journey with IVF, challenges Vance to a debate and reiterates he thinks the Republican ticket is ‘weird’
+Title: Sources familiar with the vetting process tell CNN Harris’ campaign saw a stark difference between the Minnesota governor and the other finalists
+Link: https://edition.cnn.com/2024/08/06/politics/tim-walz-inside-harris-vp-pick/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
+Title: Walz gives first speech as Harris’ VP pick
 Link: https://edition.cnn.com/politics/live-news/kamala-harris-trump-election-08-06-24/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: How Walz beat out Shapiro and Kelly to become Harris’ VP pick
-Link: https://edition.cnn.com/2024/08/06/politics/tim-walz-inside-harris-vp-pick/index.html
+Title: The Harris-Walz double act strikes a stunning contrast to Trump-Vance
+Link: https://edition.cnn.com/2024/08/07/politics/harris-walz-happy-warriors-analysis/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
 Title: ‘Come on!’: Walz attacks Vance’s record
@@ -50,20 +54,36 @@ Title: Ex-Trump official on why Trump campaign ‘shouldn’t get too confident’ wit
 Link: https://edition.cnn.com/2024/08/06/politics/video/tim-walz-harris-vice-president-griffin-gangel-digvid
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
+Title: How the Trump campaign plans to try to define Tim Walz
+Link: https://edition.cnn.com/2024/08/06/politics/republicans-tim-walz-response/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
 Title: Who is Gwen Walz, the wife of Harris’ new running mate?
 Link: https://edition.cnn.com/2024/08/06/politics/wife-tim-gwen-walz-family/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: Republicans rush to try to define Tim Walz
-Link: https://edition.cnn.com/2024/08/06/politics/republicans-tim-walz-response/index.html
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
-Title: Elon Musk claims ‘civil war is inevitable’ as UK rocked by far-right riots. He’s part of the problem
+Title: Musk claims ‘civil war is inevitable’ as UK rocked by far-right riots. He’s part of the problem
 Link: https://edition.cnn.com/2024/08/06/tech/elon-musk-civil-war-uk-riots/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
 Title: ‘They tried to kill people:’ Rotherham residents despair after riot at hotel housing asylum seekers
 Link: https://edition.cnn.com/2024/08/06/uk/rotherham-uk-far-right-riot-protest-intl/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
+Title: Rioters carry out violent, racist attacks across several British cities. What comes next?
+Link: https://edition.cnn.com/2024/08/05/uk/uk-far-right-protests-explainer-gbr-intl/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
+Title: Who is Muhammad Yunus, the Nobel laureate leader of Bangladesh’s interim government?
+Link: https://edition.cnn.com/2024/08/07/asia/muhammad-yunus-bangladesh-government-intl-hnk/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
+Title: Bangladesh’s ‘Gen Z revolution’ toppled a veteran leader. Why they hit the streets
+Link: https://edition.cnn.com/2024/08/06/asia/bangladesh-protests-hasina-resignation-explainer-intl-hnk/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
+Title: Catch up on today’s global news
+Link: https://edition.cnn.com/videos/fast/cnni-fast
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
 Title: Israeli minister says it may be ‘moral’ to starve 2 million Gazans, but ‘no one in the world would let us’
@@ -78,23 +98,23 @@ Title: Hezbollah leader says group will respond but keeping Israelis waiting is 
 Link: https://edition.cnn.com/2024/08/06/middleeast/hezbollah-leader-israelis-waiting-intl-latam/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: Catch up on today’s global news
-Link: https://edition.cnn.com/videos/fast/cnni-fast
+Title: Shocking video shows 89 bodies returned to Gaza by Israel
+Link: https://edition.cnn.com/2024/08/06/world/video/israel-gaza-bodies-exhumed-karadsheh-pkg-ldn-digvid
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
+Title: 5.2 magnitude earthquake rumbles through Los Angeles
+Link: https://edition.cnn.com/2024/08/07/us/southern-california-earthquake-tuesday/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
 Title: Pakistani national tied to Iran charged in connection to foiled assassination plot potentially targeting Trump
 Link: https://edition.cnn.com/2024/08/06/politics/iran-trump-assassination-charges/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: Bangladesh’s ‘Gen Z revolution’ toppled a veteran leader. Why they hit the streets
-Link: https://edition.cnn.com/2024/08/06/asia/bangladesh-protests-hasina-resignation-explainer-intl-hnk/index.html
+Title: Asian markets make solid gains following global rout
+Link: https://edition.cnn.com/2024/08/07/business/japan-asia-stock-market-gains-hnk-intl/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: Moon samples reveal groundbreaking water molecules discovery
-Link: https://edition.cnn.com/2024/08/05/science/china-moon-samples-water-intl-hnk/index.html
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
-Title: Workers paint a picture of chaos and dysfunction at Boeing
+Title: Workers paint picture of chaos at Boeing
 Link: https://edition.cnn.com/2024/08/06/business/boeing-737-max-blowout-ntsb-hearings-day-one/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
@@ -102,28 +122,16 @@ Title: Listen to Trump’s surprising response when he was asked about AOC
 Link: https://edition.cnn.com/2024/08/05/politics/video/trump-aoc-praise-bash-ebof-digvid
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: Gunmen kill New Zealand pilot in attack in Indonesia’s restive Papua region
-Link: https://edition.cnn.com/2024/08/05/world/new-zealand-helicopter-pilot-killed-in-indonesia-papua-region-intl-hnk/index.html
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
-Title: Stock markets rally after global rout
-Link: https://edition.cnn.com/business/live-news/global-stock-market-plunge-08-06-24/index.html
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
-Title: ‘Catastrophic’ flooding expected as deadly Tropical Storm Debby begins Southeast US deluge
-Link: https://edition.cnn.com/weather/live-news/tropical-storm-debby-08-06-24/index.html
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
-Title: Shocking video shows 89 bodies returned to Gaza by Israel
-Link: https://edition.cnn.com/2024/08/06/world/video/israel-gaza-bodies-exhumed-karadsheh-pkg-ldn-digvid
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
 Title: The next world’s tallest building could be a 3,000-feet-high battery
 Link: https://edition.cnn.com/style/skyscraper-batteries-som-energy-vault-spc/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: How did ancient Egyptians stack those heavy stones of the oldest pyramid? Scientists float new theory
-Link: https://edition.cnn.com/2024/08/05/science/egypt-pyramid-hydraulic-lift-technology-theory/index.html
+Title: Deadly Tropical Storm Debby drenches US’ East Coast
+Link: https://edition.cnn.com/weather/live-news/tropical-storm-debby-path-08-07-24/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
+Title: Moon samples reveal groundbreaking water molecules discovery
+Link: https://edition.cnn.com/2024/08/05/science/china-moon-samples-water-intl-hnk/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
 Title: NASA delays SpaceX launch as rumors swirl that spacecraft may be needed to rescue Boeing Starliner crew
@@ -134,44 +142,40 @@ Title: Plane narrowly misses man during crash landing
 Link: https://edition.cnn.com/2024/08/06/us/video/plane-emergency-landing-sacramento-golf-course-ldn-digvid
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: Nigeria, Australia and other countries warn about travel to UK amid riots
-Link: https://edition.cnn.com/2024/08/05/travel/nigeria-travel-advisory-uk-riots/index.html
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
 Title: The devastating impacts of vaccine hesitancy
 Link: https://edition.cnn.com/2024/08/06/opinions/vaccine-hesitancy-measles-health-bassyouni/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: ‘I solely did it for myself’: Simone Biles on special meaning of Paris Olympics
-Link: https://edition.cnn.com/2024/08/06/sport/video/simone-biles-coy-wire-olympics-interview-digvid
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
-Title: Olympic moment of the day: Facing giants, diver Andrea Spendolini-Sirieix shows what sports – and life – are all about
-Link: https://edition.cnn.com/2024/08/06/sport/andrea-spendolini-sirieix-olympic-moment-spt/index.html
+Title: From protesting in New Delhi to medaling in Paris: Indian wrestler makes history
+Link: https://edition.cnn.com/2024/08/07/sport/indian-wrestler-makes-history-hnk-intl-spt/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
 Title: Simone Biles tells CNN why her bowing to Rebeca Andrade was ‘really important’
 Link: https://edition.cnn.com/2024/08/06/sport/simone-biles-cnn-olympics-spt/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
-Title: USA’s Cole Hocker produces one of the upsets of the Paris Olympics to win 1,500-meter gold
-Link: https://edition.cnn.com/2024/08/06/sport/cole-hocker-1500m-paris-olympics-spt-intl/index.html
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
-Title: American teen sets world record in speed climbing
-Link: https://edition.cnn.com/2024/08/06/sport/sam-watson-speed-climbing-paris-olympics-spt-intl/index.html
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
-Title: Mondo Duplantis breaks pole vault world record for the ninth time in his career
-Link: https://edition.cnn.com/2024/08/05/sport/mondo-duplantis-pole-vault-world-record-paris-olympics-spt-intl/index.html
+Title: ‘I solely did it for myself’: Biles on special meaning of Paris Olympics
+Link: https://edition.cnn.com/2024/08/06/sport/video/simone-biles-coy-wire-olympics-interview-digvid
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
 Title: US gymnasts’ show of sportsmanship wins hearts in iconic moment
 Link: https://edition.cnn.com/2024/08/06/sport/us-gymnasts-sportsmanship-wins-hearts-podium-int-hnk/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
+Title: American teen sets world record in speed climbing
+Link: https://edition.cnn.com/2024/08/06/sport/sam-watson-speed-climbing-paris-olympics-spt-intl/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
+Title: Olympic moment of the day: Facing giants, this diver shows what sports – and life – are all about
+Link: https://edition.cnn.com/2024/08/06/sport/andrea-spendolini-sirieix-olympic-moment-spt/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
 Title: Cambodia breaks ground on controversial $1.7 billion canal
 Link: https://edition.cnn.com/2024/08/05/asia/cambodia-breaks-ground-on-china-funded-canal-intl-hnk/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
+Title: After a rash of stolen cars, Hyundai and Kia’s new anti-theft software is showing results
+Link: https://edition.cnn.com/2024/08/07/business/thieves-hyundai-kia-new-security-software/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
 Title: Video shows tornado ripping roof off structure in New York
@@ -198,16 +202,16 @@ Title: Taiwan is making a TV show about a Chinese invasion. And it’s hitting clo
 Link: https://edition.cnn.com/2024/08/04/asia/taiwan-tv-series-zero-day-chinese-invasion-intl-hnk/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
+Title: How did ancient Egyptians stack those heavy stones of the oldest pyramid? Scientists float new theory
+Link: https://edition.cnn.com/2024/08/05/science/egypt-pyramid-hydraulic-lift-technology-theory/index.html
+Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
+
 Title: This machine turns CO2 into salt to fight climate change
 Link: https://edition.cnn.com/travel/calcarea-trap-co2-cargo-ships-spc/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
 Title: Photographer gleans rare insight into the semi-nomadic life of the Palestinian Bedouin
 Link: https://edition.cnn.com/2024/08/06/style/born-of-sand-and-sun-bedouin-photos-basnakova/index.html
-Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
-
-Title: This sport is making its debut in Paris. Just don’t call it breakdancing
-Link: https://edition.cnn.com/2024/08/06/sport/breaking-olympic-debut-paris-cec/index.html
 Image: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164489011.jpg?c=16x9&q=h_720,w_1280,c_fill
 
 Title: They moved from the US to Italy to save their marriage. Here’s how that worked out
